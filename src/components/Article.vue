@@ -167,7 +167,7 @@ export default {};
 .article-container {
   padding: 2rem 4rem 0rem 4rem;
   max-width: 1440px;
-  overflow: auto;
+  /* overflow: auto; */
   display: grid;
   grid-template-areas: "pain  deed  mine  harry  super dragon onde, revisions";
 }
